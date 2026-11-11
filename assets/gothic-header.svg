@@ -1,43 +1,52 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
   <title id="title">Legion Cunningham — Full-stack developer</title>
-  <desc id="desc">A dark, restrained banner with fine silver framing, a moonlit orbital motif, and the words Build with intent.</desc>
+  <desc id="desc">A modern dark portfolio banner with muted silver-violet accents, a precise grid, and an abstract market chart.</desc>
   <defs>
-    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#111114"/>
-      <stop offset="0.52" stop-color="#1a191e"/>
+      <stop offset=".55" stop-color="#1b1920"/>
       <stop offset="1" stop-color="#0d0d10"/>
     </linearGradient>
-    <linearGradient id="silver" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#aaa4b0"/>
-      <stop offset="0.5" stop-color="#e4dfe8"/>
-      <stop offset="1" stop-color="#aaa4b0"/>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#e4dfe8"/>
+      <stop offset="1" stop-color="#8d8494"/>
     </linearGradient>
-    <radialGradient id="mist">
-      <stop offset="0" stop-color="#857b91" stop-opacity=".22"/>
+    <radialGradient id="glow">
+      <stop offset="0" stop-color="#857b91" stop-opacity=".2"/>
       <stop offset="1" stop-color="#857b91" stop-opacity="0"/>
     </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#bcb4c5" stroke-opacity=".055" stroke-width="1"/>
+    </pattern>
   </defs>
 
-  <rect width="1200" height="340" rx="16" fill="url(#background)"/>
-  <circle cx="945" cy="165" r="270" fill="url(#mist)"/>
-  <rect x="16" y="16" width="1168" height="308" rx="11" fill="none" stroke="#69636f" stroke-opacity=".62"/>
-  <rect x="24" y="24" width="1152" height="292" rx="8" fill="none" stroke="#8d8494" stroke-opacity=".18"/>
+  <rect width="1200" height="340" rx="16" fill="url(#bg)"/>
+  <rect x="1" y="1" width="1198" height="338" rx="15" fill="url(#grid)"/>
+  <circle cx="975" cy="168" r="290" fill="url(#glow)"/>
+  <rect x="18" y="18" width="1164" height="304" rx="12" fill="none" stroke="#827a89" stroke-opacity=".46"/>
 
-  <g fill="none" stroke="#b8b1bd" stroke-opacity=".58" stroke-width="1.2">
-    <path d="M42 72V42h38M1118 42h40v38M42 268v30h38M1118 298h40v-38"/>
-    <path d="M832 172c0-66 54-120 120-120s120 54 120 120-54 120-120 120" stroke-opacity=".26"/>
-    <path d="M866 172c0-47 39-86 86-86s86 39 86 86-39 86-86 86" stroke-opacity=".42"/>
-    <path d="M952 66v212M846 172h212" stroke-opacity=".22"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="78" y="83" fill="#bdb6c2" font-size="12" letter-spacing="4">LEGION CUNNINGHAM</text>
+    <circle cx="62" cy="79" r="3" fill="#b9afc4"/>
+    <text x="76" y="163" fill="url(#accent)" font-family="Georgia, 'Times New Roman', serif" font-size="58" letter-spacing="-.8">Build with intent.</text>
+    <text x="80" y="204" fill="#aaa4b0" font-size="13" letter-spacing="2.7">FULL-STACK DEVELOPER</text>
+    <path d="M80 228h110" stroke="#8d8494" stroke-opacity=".7"/>
+    <text x="80" y="257" fill="#77717e" font-size="11" letter-spacing="2">WEB  /  PRODUCT  /  DATA</text>
   </g>
-  <circle cx="952" cy="172" r="51" fill="#ded8e2" fill-opacity=".88"/>
-  <circle cx="975" cy="153" r="49" fill="#17161b"/>
-  <circle cx="1038" cy="172" r="3" fill="#d8d1dc"/>
-  <circle cx="866" cy="172" r="2" fill="#d8d1dc" fill-opacity=".75"/>
-  <path d="M1080 93v18m-9-9h18M824 231v14m-7-7h14" stroke="#c7c0cc" stroke-opacity=".6"/>
 
-  <text x="82" y="111" fill="#c3bdc8" font-family="Arial, Helvetica, sans-serif" font-size="14" letter-spacing="5.5">LEGION CUNNINGHAM</text>
-  <text x="78" y="188" fill="url(#silver)" font-family="Georgia, 'Times New Roman', serif" font-size="58" letter-spacing="1">Build with intent.</text>
-  <path d="M82 210h400" stroke="#8d8494" stroke-opacity=".72"/>
-  <text x="84" y="247" fill="#aaa4b0" font-family="Arial, Helvetica, sans-serif" font-size="14" letter-spacing="3.3">FULL-STACK DEVELOPER</text>
-  <text x="84" y="279" fill="#77717e" font-family="Arial, Helvetica, sans-serif" font-size="11" letter-spacing="2.4">WEB · PRODUCT · DATA-DRIVEN TOOLS</text>
+  <g transform="translate(718 68)">
+    <rect width="390" height="204" rx="12" fill="#151419" fill-opacity=".72" stroke="#8b8291" stroke-opacity=".38"/>
+    <path d="M20 48H370M20 88H370M20 128H370M20 168H370" stroke="#b8b0bf" stroke-opacity=".1"/>
+    <path d="M66 22V182M122 22V182M178 22V182M234 22V182M290 22V182M346 22V182" stroke="#b8b0bf" stroke-opacity=".075"/>
+    <g font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#8e8795" letter-spacing="1.4">
+      <text x="22" y="30">SIGNAL / 001</text>
+      <text x="310" y="30">SYSTEMS IN MOTION</text>
+      <text x="22" y="193">BUILD</text>
+      <text x="333" y="193">01 — 04</text>
+    </g>
+    <path d="M25 145l42-29 37 12 42-51 39 23 43-41 39 17 40-35 54 14" fill="none" stroke="#d4cdda" stroke-opacity=".85" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M25 145l42-29 37 12 42-51 39 23 43-41 39 17 40-35 54 14v74H25Z" fill="#aaa0b4" fill-opacity=".07"/>
+    <circle cx="307" cy="41" r="4" fill="#c9c0d1"/>
+    <circle cx="307" cy="41" r="9" fill="none" stroke="#c9c0d1" stroke-opacity=".3"/>
+  </g>
 </svg>

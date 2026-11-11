@@ -14,15 +14,14 @@
 
 I work across the full stack, from accessible interfaces to the data and services behind them. I’m especially interested in turning practical problems into clear, useful product experiences.
 
-My recent work includes a South African fishing guide, a clinic portal, and a tool for organizing bank statements and shared expenses. Visit my [portfolio](https://portfoliov3-ashen-rho.vercel.app) for more.
+My recent work includes retail software and clinic workflows, with a focus on clear, useful product experiences. Visit my [portfolio](https://portfoliov3-ashen-rho.vercel.app) for more.
 
 ## Selected projects
 
 | Project | What it does | Stack |
 | --- | --- | --- |
-| [**Stillwater**](https://github.com/Legionaka/paap_app5) | Helps people discover fishing waters in South Africa, with location discovery and community features. | JavaScript · PostgreSQL |
+| [**TrueMarket**](https://github.com/Legionaka/pos-system) | Point-of-sale and inventory management system for retail. | — |
 | [**Medi-Clinic**](https://github.com/Legionaka/5SOC_Dash) | Clinic portal with role-based access and workflows for patients and care teams. | Next.js · React · Supabase · PostgreSQL |
-| [**Bank Statement Manager**](https://github.com/Legionaka/bank-manager) | Imports bank statements to organize transactions and track shared expenses. | Next.js · Supabase |
 
 More work is on my [portfolio](https://portfoliov3-ashen-rho.vercel.app).
 
