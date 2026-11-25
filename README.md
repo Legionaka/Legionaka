@@ -1,13 +1,11 @@
 <div align="center">
-<img src="assets/banner.png" alt="Legion Cunningham — Junior Software Developer" width="100%">
-<br>
-**Junior software developer in Johannesburg, building full-stack web apps with Python, Flask, Next.js and PostgreSQL.**
- 
-<br>
-[![Portfolio](https://img.shields.io/badge/Portfolio-161b22?style=for-the-badge&logo=vercel&logoColor=white)](https://portfoliov3-ashen-rho.vercel.app)
-[![Email](https://img.shields.io/badge/Email-161b22?style=for-the-badge&logo=gmail&logoColor=white)](mailto:legioncunningham@gmail.com)
-[![Repositories](https://img.shields.io/badge/Repositories-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Legionaka?tab=repositories)
- 
+  <img src="linkedin-banner%20(1).png" alt="Legion Cunningham, Junior Software Developer" width="100%">
+  <p><strong>Junior software developer in Johannesburg, building full-stack web apps with Python, Flask, Next.js and PostgreSQL.</strong></p>
+  <p>
+    <a href="https://portfoliov3-ashen-rho.vercel.app"><img src="https://img.shields.io/badge/Portfolio-161b22?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+    <a href="mailto:legioncunningham@gmail.com"><img src="https://img.shields.io/badge/Email-161b22?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+    <a href="https://github.com/Legionaka?tab=repositories"><img src="https://img.shields.io/badge/Repositories-161b22?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"></a>
+  </p>
 </div>
 ---
  
@@ -29,7 +27,6 @@ I like problems that don't make sense until they suddenly do. My projects are bu
 | **VulnWatch** | Searchable feed of security advisories, updates and community discussion. Each item carries a verification level set by deterministic rules, not AI. | FastAPI · PostgreSQL · Redis · Celery · Next.js | In progress |
 | [**Medi-Clinic**](https://github.com/Legionaka/5SOC_Dash) | Clinic portal with role-based access and workflows for patients and care teams. | Next.js · React · Tailwind CSS · Supabase · PostgreSQL | Built |
 | [**TrueMarket**](https://github.com/Legionaka/pos-system) | Point-of-sale and inventory system for South African retail (ZAR/VAT), with views for cashier, manager and owner. | Next.js · React · Tailwind CSS · Node.js · Supabase | Built |
-| [**Altis**](https://atlis-airporttracker.vercel.app) | Airport explorer. The API key lives behind a Node/Express proxy with Helmet, rate limiting and caching. Keyboard-operable with ARIA live regions and skip links. | Node.js · Express · JavaScript | Live |
  
 More work is on my [portfolio](https://portfoliov3-ashen-rho.vercel.app).
  
@@ -71,7 +68,6 @@ More work is on my [portfolio](https://portfoliov3-ashen-rho.vercel.app).
 ---
  
 <div align="center">
-**Hiring, or have a project in mind?** [legioncunningham@gmail.com](mailto:legioncunningham@gmail.com) · [Portfolio](https://portfoliov3-ashen-rho.vercel.app)
- 
+  <p><strong>Hiring, or have a project in mind?</strong> <a href="mailto:legioncunningham@gmail.com">legioncunningham@gmail.com</a> · <a href="https://portfoliov3-ashen-rho.vercel.app">Portfolio</a></p>
 </div>
  
